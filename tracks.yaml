@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/ecl_lite-release.git
 tracks:
   bouncy:
     actions:
