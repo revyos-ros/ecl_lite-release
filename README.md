@@ -1,3 +1,34 @@
+## ecl_lite (humble) - 1.2.0-2
+
+The packages in the `ecl_lite` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble ecl_lite --override-release-repository-push-url git@github.com:revyos-ros/ecl_lite-release.git` on `Wed, 09 Oct 2024 07:32:30 -0000`
+
+These packages were released:
+- `ecl_config`
+- `ecl_console`
+- `ecl_converters_lite`
+- `ecl_errors`
+- `ecl_io`
+- `ecl_lite`
+- `ecl_sigslots_lite`
+- `ecl_time_lite`
+
+Version of package(s) in repository `ecl_lite`:
+
+- upstream repository: https://github.com/stonier/ecl_lite.git
+- release repository: https://github.com/revyos-ros/ecl_lite-release.git
+- rosdistro version: `1.2.0-1`
+- old version: `1.2.0-1`
+- new version: `1.2.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ecl_lite (jazzy) - 1.2.0-6
 
 The packages in the `ecl_lite` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy ecl_lite --override-release-repository-push-url git@github.com:revyos-ros/ecl_lite-release.git` on `Sun, 16 Jun 2024 08:28:08 -0000`
